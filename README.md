@@ -1,3 +1,19 @@
+# data-peace-user-listing-react-hooks
+This is a demo application for fetching some records from an API and having them displayed as a paginated table view. I have used useState and useEffect hooks to accomplish the purpose, I could've used Class Components but Hooks make the code tidy and more readable.
+
+## Installation
+
+Use the package manager [npm](https://npm.org) to install the required dependencies listed in package.json / package-lock.json files . Navigate to the root dir of the project, open the terminal and do :
+
+```bash
+npm install
+```
+After this, do
+```bash
+npm start
+```
+and the app should start on [localhost](http://localhost:3000/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
