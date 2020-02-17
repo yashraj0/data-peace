@@ -3,7 +3,7 @@ This is a demo application for fetching some records from an API and having them
 
 ## Installation
 
-Use the package manager [npm](https://npm.org) to install the required dependencies listed in package.json / package-lock.json files . Navigate to the root dir of the project, open the terminal and do :
+Use the package manager [npm](https://www.npmjs.com/) to install the required dependencies listed in package.json / package-lock.json files . Navigate to the root dir of the project, open the terminal and do :
 
 ```bash
 npm install
