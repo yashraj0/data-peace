@@ -140,7 +140,7 @@ body {
     top: 0;
   }
   
-  .pagination_wrapper:after {
+  /* .pagination_wrapper:after {
     content: '';
     position: absolute;
     width: 20px;
@@ -148,7 +148,7 @@ body {
     background: white;
     left: 100%;
     top: 0;
-  }
+  } */
   
   .pagination {
     display: flex;
